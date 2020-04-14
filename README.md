@@ -187,26 +187,26 @@ Classical and modern mechanisms for engineers and inventors</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(111).pdf" style="text-decoration:none;">Steamboats Come True: American Inventors in Action</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(112).pdf" style="text-decoration:none;">The Men Who United the States: America's Explorers, Inventors, Eccentrics, and Mavericks, and the Creation of One Nation, Indivisible</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(113).pdf" style="text-decoration:none;">Parallel Worlds: A journey through creation, higher dimensions, and the future of the cosmos</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(113).pdf" style="text-decoration:none;">The Eureka Method: How to Think Like an Inventor</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(114).pdf" style="text-decoration:none;">Quantum Field Theory: A Modern Introduction</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(114).pdf" style="text-decoration:none;">Leonardo da Vinci: Artist, Inventor, and Renaissance Man</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(115).pdf" style="text-decoration:none;">Quantum man: Richard Feynman's life in science</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(116).pdf" style="text-decoration:none;">Quantum: Einstein, Bohr, and the Great Debate about the Nature of Reality</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(117).pdf" style="text-decoration:none;">Relativity: The Special and General Theory</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(115).pdf" style="text-decoration:none;">The 100 Most Influential Inventors of All Time</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(116).pdf" style="text-decoration:none;">Scientists Behind the Inventors: The Stories behind the leading scientists two centuries whose contributions made possible today's wonders of invention</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(117).pdf" style="text-decoration:none;">The Alchemist</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(118).pdf" style="text-decoration:none;">Six Not-So-Easy Pieces: Einstein's Relativity, Symmetry, and Space-Time</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(119).pdf" style="text-decoration:none;">A Brief History of Time</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(120).pdf" style="text-decoration:none;">The Born Einstein Letters </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(118).pdf" style="text-decoration:none;">Innovate Like Edison:The Success System of America's Greatest Inventor </a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(119).pdf" style="text-decoration:none;">Charles Babbage, philosopher, reformer, inventor: a history of his contributions to science</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(120).pdf" style="text-decoration:none;">Scalable Innovation: A Guide for Inventors, Entrepreneurs, and IP Professionals </a></li>
 
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(121).pdf" style="text-decoration:none;">
-The Collected Papers of Albert Einstein, Vol.11</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(122).pdf" style="text-decoration:none;">The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(123).pdf" style="text-decoration:none;">The Fabric of the Cosmos: Space, Time, and the Texture of Reality</a></li>
+China's Young Inventors: A Systemic View of the Individual and Environmental Factors</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(122).pdf" style="text-decoration:none;">Coders at Work: Reflections on the Craft of Programming</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(123).pdf" style="text-decoration:none;">Famous Inventors and Scientists in Physics</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(124).pdf" style="text-decoration:none;">The Future of the Mind: The Scientific Quest to Understand, Enhance, and Empower the Mind</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(125).pdf" style="text-decoration:none;">The Grand Design</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(124).pdf" style="text-decoration:none;">Freud: Inventor of the Modern Mind</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(125).pdf" style="text-decoration:none;">The Entrepreneurial Spirit of African American Inventors</a></li>
 
 
 
