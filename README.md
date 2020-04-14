@@ -180,10 +180,10 @@ Classical and modern mechanisms for engineers and inventors</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(106).pdf" style="text-decoration:none;">Lives and Legacies: An Encyclopedia of People Who Changed the World</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(107).pdf" style="text-decoration:none;">From Idea to Innovation: A Handbook for Inventors, Decision Makers and Organizations</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(108).pdf" style="text-decoration:none;">Hiding in the Mirror: The Quest for Alternate Realities, from Plato to String Theory (by way of Alicei n Wonderland, Einstein, and The Twilight Zone)</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(108).pdf" style="text-decoration:none;">TinkerLab 55 Playful Experiments That Encourage Tinkering Curiosity Creative Thinking</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(109).pdf" style="text-decoration:none;">How to Think Like Einstein: Simple Ways to Break the Rules and Discover Your Hidden Genius</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(110).pdf" style="text-decoration:none;">Hyperspace: A Scientific Odyssey Through Parallel Universes, Time Warps, And The Tenth Dimension</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(109).pdf" style="text-decoration:none;">The scientists: a history of science told through the lives of its greatest inventors</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(110).pdf" style="text-decoration:none;">American Inventors: A History of Genius</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(111).pdf" style="text-decoration:none;">The large scale structure of space-time</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(112).pdf" style="text-decoration:none;">Moonwalking with Einstein</a></li>                              
