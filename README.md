@@ -100,31 +100,32 @@ The Invention of Enterprise: Entrepreneurship from Ancient Mesopotamia to Modern
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(60).pdf" style="text-decoration:none;">Mad Science: Einstein's Fridge, Dewar's Flask, Mach's Speed, and 362 Other Inventions and Discoveries that Made Our World</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(61).pdf" style="text-decoration:none;">Higher Mathematics for Physics and Engineering</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(62).pdf" style="text-decoration:none;">Physics Workbook For Dummies</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(61).pdf" style="text-decoration:none;">Great Inventions that Changed the World</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(62).pdf" style="text-decoration:none;">Deeply into the bone: re-inventing rites of passage</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(63).pdf" style="text-decoration:none;">SAT II Success Physics</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(64).pdf" style="text-decoration:none;">Feynman's Tips on Physics</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(64).pdf" style="text-decoration:none;">The Invention of "Folk Music" and "Art Music"</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(65).pdf" style="text-decoration:none;">Physics in a New Era: An Overview</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(66).pdf" style="text-decoration:none;">Practical Physics</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(65).pdf" style="text-decoration:none;">Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(66).pdf" style="text-decoration:none;">Inventing Atmospheric Science</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(67).pdf" style="text-decoration:none;">
-The Handy Physics Answer Book</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(68).pdf" style="text-decoration:none;">Aptitude Test Problems in Physics Science for Everyone</a></li>
+Netflix and the Re-invention of Television</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(68).pdf" style="text-decoration:none;">The Rate and Direction of Inventive Activity Revisited</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(69).pdf" style="text-decoration:none;">Physics through the 1990s: Gravitation, cosmology and cosmic-ray physics</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(69).pdf" style="text-decoration:none;">Rules for a Flat World: Why Humans Invented Law and How to Reinvent It for a Complex Global Economy</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(70).pdf" style="text-decoration:none;">Electricity, Magnetism And Modern Physics (Course Guide)</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(71).pdf" style="text-decoration:none;">Metallic Materials: Physical, Mechanical, and Corrosion Properties</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(70).pdf" style="text-decoration:none;">Invent To Learn: Making, Tinkering, and Engineering in the Classroom</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(71).pdf" style="text-decoration:none;">Venture Capital and the Inventive Process</a></li>
 
 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(72).pdf" style="text-decoration:none;">Problems and Solutions on Atomic, Nuclear and Particle Physics</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(73).pdf" style="text-decoration:none;">For the Love of Physics</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(72).pdf" style="text-decoration:none;">Weaving the Universe: Is Modern Cosmology Discovered or Invented?</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(73).pdf" style="text-decoration:none;">Finding Fibonacci: The Quest to Rediscover the Forgotten Mathematical Genius Who Changed the World</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(74).pdf" style="text-decoration:none;">Solid-State Physics for Electronics</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(75).pdf" style="text-decoration:none;">Statistical Physics</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(74).pdf" style="text-decoration:none;">Fatal Invention: How Science, Politics, and Big Business Re-Create Race in the 21st Century</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(75).pdf" style="text-decoration:none;">Re-Constructing the Man of Steel: Superman 1938–1941, Jewish American History, and the Invention of the Jewish–Comics
+Connection</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(76).pdf" style="text-decoration:none;">Introduction to Cosmology</a></li>
 
