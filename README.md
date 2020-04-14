@@ -66,7 +66,7 @@ The history of science and technology</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(36).pdf" style="text-decoration:none;">The perfection of the paper clip: curious tales of invention, accidental genius, and stationery obsession</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(37).pdf" style="text-decoration:none;">Degrees Kelvin: a tale of genius, invention, and tragedy</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(38).pdf" style="text-decoration:none;">Solutions to I E Irodov's Problems in General Physics, Vol.1</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(38).pdf" style="text-decoration:none;">Invent It, Sell It, Bank It! Make Your Million-Dollar Idea Into a Reality</a></li>
                             
  <li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(39).pdf" style="text-decoration:none;"> The Age of Agade</a></li>
 
