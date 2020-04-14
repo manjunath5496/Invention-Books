@@ -21,57 +21,58 @@ Wonder You Wonder!: Great Inventions and Scientific Mysteries</a></li>
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(11).pdf" style="text-decoration:none;">Shay Pendray's inventive needlework</a></li>
                             
- <li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(12).pdf" style="text-decoration:none;"> The Feynman Lectures on Physics</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(12).pdf" style="text-decoration:none;"> Amazing Leonardo da Vinci Inventions: You Can Build Yourself</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(13).pdf" style="text-decoration:none;"> Discussions on I E Irodov solutions Problems in General Physics</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(14).pdf" style="text-decoration:none;"> Physical Sciences Grade 11</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(15).pdf" style="text-decoration:none;">Understanding physics: Mechanics, part 2</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(13).pdf" style="text-decoration:none;"> Augustine's Invention of the Inner Self</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(14).pdf" style="text-decoration:none;"> The Book of Wondrous Inventions</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(15).pdf" style="text-decoration:none;">Inventing the Cloud Century: How Cloudiness Keeps Changing Our Life, Economy and Technology</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(16).pdf" style="text-decoration:none;">The Physics of Everyday Phenomena: A Conceptual Introduction to Physics</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(16).pdf" style="text-decoration:none;">
+The history of science and technology</a></li>
                             
- <li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(17).pdf" style="text-decoration:none;">Conceptual Physics</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(17).pdf" style="text-decoration:none;">A History of Mechanical Inventions</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(18).pdf" style="text-decoration:none;">Semiconductor Physics and Devices: Basic Principles</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(19).pdf" style="text-decoration:none;">Problems and Solutions on Quantum Mechanics</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(20).pdf" style="text-decoration:none;">Cambridge IGCSE Physics</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(18).pdf" style="text-decoration:none;">trash-to-treasure papermaking</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(19).pdf" style="text-decoration:none;">Pocket Genius: Inventions: Facts at Your Fingertips</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(20).pdf" style="text-decoration:none;">Invention of Hysteria</a></li>
 
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(21).pdf" style="text-decoration:none;">Introduction to Modern Optics</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(21).pdf" style="text-decoration:none;">The Invention of Hebrew</a></li>
                             
- <li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(22).pdf" style="text-decoration:none;">IB Physics</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(22).pdf" style="text-decoration:none;">TRIZ – The Theory of Inventive Problem Solving</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(23).pdf" style="text-decoration:none;">Introduction to the Physics of Matter</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(24).pdf" style="text-decoration:none;">The Feynman Lectures on Physics, Vol. 1: Mainly Mechanics, Radiation, and Heat</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(25).pdf" style="text-decoration:none;">Physics 2000</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(23).pdf" style="text-decoration:none;">The paper trail: an unexpected history of a revolutionary invention</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(24).pdf" style="text-decoration:none;">How Language Began: The Story of Humanity's Greatest Invention</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(25).pdf" style="text-decoration:none;">Inventing a Space Mission: The Story of the Herschel Space Observatory</a></li>
 
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(26).pdf" style="text-decoration:none;">Physics II For Dummies</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(26).pdf" style="text-decoration:none;">Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future</a></li>
                             
- <li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(27).pdf" style="text-decoration:none;">Modern Classical Physics: Optics, Fluids, Plasmas, Elasticity, Relativity, and Statistical Physics</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(27).pdf" style="text-decoration:none;">How James Watt Invented the Copier: Forgotten Inventions of Our Great Scientists</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(28).pdf" style="text-decoration:none;">Newtonian Physics</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(29).pdf" style="text-decoration:none;">The Pearson Guide to Physical Chemistry for the IIT JEE</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(30).pdf" style="text-decoration:none;">Atomic Physics</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(28).pdf" style="text-decoration:none;">Creativity: Understanding Innovation in Problem Solving, Science, Invention, and the Arts</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(29).pdf" style="text-decoration:none;">Baked Elements: The Importance of Being Baked in 10 Favorite Ingredients</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(30).pdf" style="text-decoration:none;">Invent Your Own Computer Games with Python</a></li>
 
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(31).pdf" style="text-decoration:none;">Handbook on the Physics and Chemistry of Rare Earths</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(31).pdf" style="text-decoration:none;">Technology Transfer: From Invention to Innovation</a></li>
                             
- <li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(32).pdf" style="text-decoration:none;">A History of Mechanics</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(32).pdf" style="text-decoration:none;">I invented the modern age: The Rise Of Henry Ford</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(33).pdf" style="text-decoration:none;">Mathematical Physics: Applied Mathematics for Scientists and Engineers</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(34).pdf" style="text-decoration:none;">Applied Physics, System Science and Computers: Proceedings of the 1st International Conference on Applied Physics, System Science and Computers (APSAC2016), September 28–30, Dubrovnik, Croatia</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(34).pdf" style="text-decoration:none;">Electronic Inventions and Discoveries: Electronics from Its Earliest Beginnings to the Present Day</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(35).pdf" style="text-decoration:none;">1000 Solved Problems in Classical Physics</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(36).pdf" style="text-decoration:none;">Quantum Physics (UCSD Physics 130)</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(37).pdf" style="text-decoration:none;">Physics: NCERT Exemplar Problems and Solutions</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(36).pdf" style="text-decoration:none;">The perfection of the paper clip: curious tales of invention, accidental genius, and stationery obsession</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(37).pdf" style="text-decoration:none;">Degrees Kelvin: a tale of genius, invention, and tragedy</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(38).pdf" style="text-decoration:none;">Solutions to I E Irodov's Problems in General Physics, Vol.1</a></li>
                             
- <li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(39).pdf" style="text-decoration:none;"> Schaum's Outline of Theory and Problems of College Physics</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(39).pdf" style="text-decoration:none;"> The Age of Agade</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(40).pdf" style="text-decoration:none;">1000 Solved Problems in Modern Physics</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(41).pdf" style="text-decoration:none;">Tensors for Physics</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(42).pdf" style="text-decoration:none;">Advanced Solid State Physics</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(40).pdf" style="text-decoration:none;">Scientific American Inventions and Discoveries: All the Milestones in Ingenuity From the Discovery of Fire to the Invention of the Microwave Oven</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(41).pdf" style="text-decoration:none;">Artificial Mythologies: A Guide to Cultural Invention</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(42).pdf" style="text-decoration:none;">Shakespeare: The Invention of the Human</a></li>
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(43).pdf" style="text-decoration:none;">Solutions to I E Irodov's Problems in General Physics, Vol.2</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(44).pdf" style="text-decoration:none;"> Physics Olympiad: 1993 Multiple Choice Screening Test</a></li>
