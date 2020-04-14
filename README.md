@@ -61,7 +61,7 @@ The history of science and technology</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(33).pdf" style="text-decoration:none;">Overcoming Inventoritis: The Silent Killer of Innovation</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(34).pdf" style="text-decoration:none;">Electronic Inventions and Discoveries: Electronics from Its Earliest Beginnings to the Present Day</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(35).pdf" style="text-decoration:none;">1000 Solved Problems in Classical Physics</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(35).pdf" style="text-decoration:none;">They Laughed at Galileo: How the Great Inventors Proved Their Critics Wrong</a></li>
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(36).pdf" style="text-decoration:none;">The perfection of the paper clip: curious tales of invention, accidental genius, and stationery obsession</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(37).pdf" style="text-decoration:none;">Degrees Kelvin: a tale of genius, invention, and tragedy</a></li>
