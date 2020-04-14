@@ -59,7 +59,7 @@ The history of science and technology</a></li>
                             
  <li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(32).pdf" style="text-decoration:none;">I invented the modern age: The Rise Of Henry Ford</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(33).pdf" style="text-decoration:none;">Mathematical Physics: Applied Mathematics for Scientists and Engineers</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(33).pdf" style="text-decoration:none;">Overcoming Inventoritis: The Silent Killer of Innovation</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(34).pdf" style="text-decoration:none;">Electronic Inventions and Discoveries: Electronics from Its Earliest Beginnings to the Present Day</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(35).pdf" style="text-decoration:none;">1000 Solved Problems in Classical Physics</a></li>
 
