@@ -89,7 +89,7 @@ The Invention of Enterprise: Entrepreneurship from Ancient Mesopotamia to Modern
  <li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(51).pdf" style="text-decoration:none;">Masters of Death: The SS-Einsatzgruppen and the Invention of the Holocaust</a></li> 
  <li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(52).pdf" style="text-decoration:none;">How to License Your Million Dollar Idea: Cash In On Your Inventions, New Product Ideas, Software, Web Business Ideas, And More</a></li> 
 <li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(53).pdf" style="text-decoration:none;">Mesopotamia: The Invention of the City</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(54).pdf" style="text-decoration:none;">A Guide to Physics Problems: Part 2: Thermodynamics, Statistical Physics, and Quantum Mechanics</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(54).pdf" style="text-decoration:none;">The Inventor's Secret</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(55).pdf" style="text-decoration:none;">Systems Thinking: Managing Chaos and Complexity</a></li>
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Invention-Books/blob/master/iven(56).pdf" style="text-decoration:none;">Inventing God: Psychology of Belief and the Rise of Secular Spirituality</a></li>                              
